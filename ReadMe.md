@@ -1,8 +1,9 @@
   <summary>
-    <h2>👷 Member</h2>
+    <h2>👷 Contributors</h2>
     <table>
         <td align="center"><a href="https://github.com/woosanggyu"><img src="https://avatars.githubusercontent.com/u/45311830?v=4?s=60" width="60px;" alt=""/><br /><sub><b>Sang Gyu</b></sub></a><br /><a href="https://github.com/woosanggyu" title="Code">💻</a></td>
         <td align="center"><a href="https://github.com/wonjin-dev"><img src="https://avatars.githubusercontent.com/u/82315118?v=4?s=60" width="60px;" alt=""/><br /><sub><b>원진</b></sub></a><br /><a href="https://github.com/wonjin-dev" title="Code">💻</a></td>
+        <td align="center"><a href="https://github.com/JinleeJeong"><img src="https://avatars.githubusercontent.com/u/45163013?v=4?s=60" width="60px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/JinleeJeong" title="Code">💻</a></td>
     </table>
 
   </summary>
@@ -11,17 +12,17 @@
     <h2>📌 convention</h2>
   </summary>
     <h3>commit message</h3>
-      
-          Gitmoji를 사용하였습니다
 
-          core: 패키지 설정
-          feat: 신규 기능
-          test: 테스트 코드
-          refactor: 리팩터링
-          docs: 문서 작성
-          style: 스타일링
-          fix: 오류 수정
-          opt: 최적화
+```
+core: 패키지 설정
+feat: 신규 기능
+test: 테스트 코드
+refactor: 리팩터링
+docs: 문서 작성
+style: 스타일링
+fix: 오류 수정
+opt: 최적화
+```
 
 <hr>
 
