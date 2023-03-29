@@ -14,7 +14,7 @@
     <h3>commit message</h3>
 
 ```
-core: 패키지 설정
+chore: 패키지 설정
 feat: 신규 기능
 test: 테스트 코드
 refactor: 리팩터링
